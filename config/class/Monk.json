@@ -1,0 +1,26 @@
+{
+	"classname":"Monk",
+	"hitdie":8,
+	"skillpoints":4,
+	"bab":"medium",
+	"fort":"good",
+	"ref":"good",
+	"will":"good",
+	"alignment":"lawful",
+  "spellmod":"none",
+	"classSkills":["balance","climb","concentration","craft","diplomacy","escapeartist","hide","jump","arcana","religion","listen","movesilent","perform","profession","sensemotive","spot","swim","tumble"],
+	"special":[
+    [1,"bonusfeat","unarmedstrike","flurry"],
+    [2,"bonusfeat","evasion"],
+    [3,"stillmind","unarmoredmovement"],
+    [4,"kimagic,slowfall20"],
+    ["purityofbody"],
+    [
+      
+  ],
+  "extra":[],
+	"spD":[[]],
+	
+	
+
+}
