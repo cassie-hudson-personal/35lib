@@ -11,14 +11,37 @@
 	"classSkills":["balance","climb","concentration","craft","diplomacy","escapeartist","hide","jump","arcana","religion","listen","movesilent","perform","profession","sensemotive","spot","swim","tumble"],
 	"special":[
     [1,"bonusfeat","unarmedstrike","flurry"],
-    [2,"bonusfeat","evasion"],
+    [2,"bonusfeat","evasion1"],
     [3,"stillmind","unarmoredmovement"],
     [4,"kimagic,slowfall20"],
-    ["purityofbody"],
-    [
+    [5,"purityofbody","ACbonus"],
+    [6,"bonusfeat","slowfall30"],
+		[7,"wholenessofbody"],
+		[8,"slowfall40"],
+		[9,"evasion2"],
+		[10,"kistrikelaw","slowfall50"],
+		[11,"diamondbody","greaterflurry"],
+		[12,"abundantstep","slowfall60"],
+		[13,"diamondsoul"],
+		[14,"slowfall70"],
+		[15,"quiveringpalm"],
+		[16,"kistrikeadamant","slowfall80"],
+		[17,"timelessbody","sunmoontongue"],
+		[18,"slowfall90"],
+		[19,"emptybody"],
+		[20,"perfectself","slowfallforever"],
+		
       
   ],
-  "extra":[],
+  "extra":[
+	  [1,"-2","1d6","0","0ft"],
+	  [2,"-1"],
+	  [3,"0","10ft"],
+	  [4,"1","d8"],
+	  [5,"
+	  
+	  
+	  ],
 	"spD":[[]],
 	
 	
