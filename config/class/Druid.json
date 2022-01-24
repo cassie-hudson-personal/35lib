@@ -17,9 +17,17 @@
     [5,"wildshape1"],
     [6,"wildshape2"],
     [7,"wildshape3"],
-    [
-     
-  
+    [8,"wildshapelarge"],
+    [9,"venomimmune"],
+		[10,"wildshape4"],
+		[11,"wildshapetiny"],
+		[12,"wildshapeplant"],
+		[13,"athousandfaces"],
+		[14,"wildshape5"],
+		[15,"timelessbody","wildshapehuge"],
+		[16,"wildshapeelemental1"],
+		[18,"wildshape6","wildshapeelemental2"],
+		[20,"wildshapeelemental3","hugeelemental"],
   ],
 	"spD":[
     [3,1],
