@@ -1,0 +1,40 @@
+{
+	"classname":"Rogue",
+	"hitdie":6,
+	"skillpoints":8,
+	"bab":"medium",
+	"fort":"bad",
+	"ref":"good",
+	"will":"bad",
+	"alignment":"any",
+  "spellmod":"none",
+	"classSkills":["appraise","balance","bluff","climb","craft","decipherscript","diplomacy","disabledevice","disguise","escapeartist",
+                "forgery","gatherinfo","hide","intimidate","jump","local","listen","movesilent","openlock","perform","profession","search","sensemotive","sleightofhand","spot","swim","tumble","usemagicdevice","userope"],
+	"special":[
+		 [1,],
+    		[2,],
+    		[3,],
+    		[4,],
+    		[5,],
+    		[6,],
+    		[7,],
+    		[8,],
+    		[9,],
+    		[10,],
+    		[11,],
+    		[12,],
+    		[13,],
+    		[14,],
+    		[15,],
+    		[16,],
+    		[17,],
+    		[18,],
+    		[19,],
+		[20,],
+		
+	],
+	"spD":[[]],
+	
+	
+
+}
