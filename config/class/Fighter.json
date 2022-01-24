@@ -1,0 +1,29 @@
+{
+	"classname":"Fighter",
+	"hitdie":10,
+	"skillpoints":2,
+	"bab":"high",
+	"fort":"good",
+	"ref":"bad",
+	"will":"bad",
+	"alignment":"any",
+  "spellmod":"none",
+	"classSkills":["climb","craft","handleanimal","intimidate","jump","ride","swim"],
+	"special":[
+    [1,"bonusfeat"],
+    [2,"bonusfeat"],
+    [4,"bonusfeat"],
+    [6,"bonusfeat"],
+    [8,"bonusfeat"],
+    [10,"bonusfeat"],
+    [12,"bonusfeat"],
+    [14,"bonusfeat"],
+    [16,"bonusfeat"],
+    [18,"bonusfeat"],
+    [20,"bonusfeat"],
+  ],
+	"spD":[[]],
+	
+	
+
+}
