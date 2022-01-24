@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Core;
+﻿using Core;
 using NUnit.Framework;
 using Shouldly;
 
@@ -17,6 +12,13 @@ namespace Test
             var medium = new MediumBaseAttackStrategy();
 
             medium.Levelup(1).ShouldBe(0);
+        }
+        [Test]
+        public void BaseAttackBonus_Attwentiethlevel_Isfifteen()
+        {
+            var medium = new MediumBaseAttackStrategy();
+
+            medium.Levelup(20).ShouldBe(15);
         }
     }
 }
