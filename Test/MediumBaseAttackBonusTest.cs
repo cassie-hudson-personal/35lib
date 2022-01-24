@@ -14,6 +14,13 @@ namespace Test
             medium.Levelup(1).ShouldBe(0);
         }
         [Test]
+        public void BaseAttackBonus_AtTenthLevel_IsSeven()
+        {
+            var medium = new MediumBaseAttackStrategy();
+
+            medium.Levelup(10).ShouldBe(7);
+        }
+        [Test]
         public void BaseAttackBonus_Attwentiethlevel_Isfifteen()
         {
             var medium = new MediumBaseAttackStrategy();
