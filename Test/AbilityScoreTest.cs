@@ -1,4 +1,4 @@
-using Core;
+using Core.Char;
 using NUnit.Framework;
 using Shouldly;
 

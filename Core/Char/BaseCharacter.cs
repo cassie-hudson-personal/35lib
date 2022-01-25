@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Core.Char;
+using System.Collections.Generic;
 
 namespace Core
 {
