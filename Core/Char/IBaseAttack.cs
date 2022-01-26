@@ -1,6 +1,6 @@
 ﻿namespace Core;
 
-public interface IBaseAttackStrategy
+public interface IBaseAttack
 {
     int Levelup(int level);
 

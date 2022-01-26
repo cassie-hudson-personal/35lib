@@ -6,7 +6,7 @@
 	"fort":"bad",
 	"ref":"good",
 	"will":"bad",
-	"alignment":"any",
+	"alignment":["any"],
   "spellmod":"none",
 	"classSkills":["appraise","balance","bluff","climb","craft","decipherscript","diplomacy","disabledevice","disguise","escapeartist",
                 "forgery","gatherinfo","hide","intimidate","jump","local","listen","movesilent","openlock","perform","profession","search","sensemotive","sleightofhand","spot","swim","tumble","usemagicdevice","userope"],

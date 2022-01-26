@@ -6,7 +6,7 @@
 	"fort":"good",
 	"ref":"good",
 	"will":"good",
-	"alignment":"lawful",
+	"alignment":["lawful"],
   "spellmod":"none",
 	"classSkills":["balance","climb","concentration","craft","diplomacy","escapeartist","hide","jump","arcana","religion","listen","movesilent","perform","profession","sensemotive","spot","swim","tumble"],
 	"special":[

@@ -6,7 +6,7 @@
 	"fort":"good",
 	"ref":"bad",
 	"will":"bad",
-	"alignment":"lawfulgood",
+	"alignment":["lawfulgood"],
   "spellmod":"wis",
 	"classSkills":["concentration","craft","diplomacy","handleanimal","heal","nobilityroyalty","religion","profession","ride","sensemotive"],
 	"special":[

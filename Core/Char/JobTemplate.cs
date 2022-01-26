@@ -1,16 +1,37 @@
-﻿using System.Text.Json;
+﻿using System.Collections.Generic;
 using System.Text.Json.Serialization;
-using System.Collections.Generic;
 namespace Core.Utils;
 
 public class JobTemplate
 {
     [JsonPropertyName("classname")]
     public string Name { get; set; }
-    public short HitDice { get; set; }
-    public IBaseAttackStrategy BaseAttackStrategy { get; set; }
+    public int HitDice { get; set; }
+    private string _bab;
+    public string Bab { set { _bab = value; } }
 
-    [JsonPropertyName("alignment")]
+
+    public IBaseAttack BaseAttack
+    {
+        get
+        {
+            if (_bab == "High")
+            {
+                return new HBaseAttack();
+            }
+            else if (_bab == "Medium")
+            {
+                return new MBaseAttack();
+            }
+            else
+            {
+                return new LBaseAttack();
+            }
+        }
+    }
+
+    }
+
     public List<string> Alignment { get; set; }
-    
+
 }

@@ -6,7 +6,7 @@
 	"fort":"good",
 	"ref":"good",
 	"will":"bad",
-	"alignment":"any",
+	"alignment":["any"],
   "spellmod":"wis",
 	"classSkills":["Climb","concentration","craft","handleanimal","heal","hide","jump","dungeoneering","geography","nature","listen","movesilent","profession","ride","search","spot","survival","swim","userope"],
 	"special":[

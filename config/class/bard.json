@@ -8,7 +8,7 @@
 	"will":"good",
 	"alignment":["chaotic","neutral"],
 	"spellmod":"cha",
-	"classSkills":["appraise","balance","bluff","climb","concentration","craft","decipherscript","diplomacy","disguise","escape","gatherinfo","hide","jump","knowledgeall","listen","movesilently","perform","profession","sensemotive","sleightofhand","speaklang","],
+	"classSkills":["appraise","balance","bluff","climb","concentration","craft","decipherscript","diplomacy","disguise","escape","gatherinfo","hide","jump","knowledgeall","listen","movesilently","perform","profession","sensemotive","sleightofhand","speaklang"],
 	"special":[
 		       [1,"bardicmusic","bardicknowledge","countersong","fascinate","courage1"],
 			[3,"competence"],
@@ -41,7 +41,7 @@
 		[4,4,4,4,3,3,1],
 		[4,4,4,4,4,3,2],
 		[4,4,4,4,4,4,3],
-		[4,4,4,4,4,4,4],
+		[4,4,4,4,4,4,4]
 	],
   "spellknown":[
   [4],

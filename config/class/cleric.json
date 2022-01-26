@@ -6,8 +6,8 @@
 	"fort":"good",
 	"ref":"bad",
 	"will":"good",
-	"alignment":"any",
-  "spellmod":"Wis",
+	"alignment":["any"],
+  "spellmod":"wis",
 	"classSkills":["concentration","craft","diplomacy","heal","arcana","history","religion","planes","profession","spellcraft"],
 	"special":[1,"turn/rebuke"],
 	"spD":[

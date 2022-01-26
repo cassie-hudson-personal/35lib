@@ -6,7 +6,7 @@
 	"fort":"good",
 	"ref":"bad",
 	"will":"bad",
-	"alignment":"any",
+	"alignment":["any"],
   "spellmod":"none",
 	"classSkills":["climb","craft","handleanimal","intimidate","jump","ride","swim"],
 	"special":[

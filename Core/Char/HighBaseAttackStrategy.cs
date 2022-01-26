@@ -1,6 +1,6 @@
 ﻿namespace Core;
 
-public class HighBaseAttackStrategy : IBaseAttackStrategy
+public class HighBaseAttackStrategy : IBaseAttack
 {
     public int Levelup(int level)
     {
