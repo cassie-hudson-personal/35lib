@@ -7,7 +7,7 @@
 	"ref":"bad",
 	"will":"bad",
 	"alignment":["any"],
-  "spellmod":"none",
+  	"spellmod":"none",
 	"classSkills":["climb","craft","handleanimal","intimidate","jump","ride","swim"],
 	"special":[
     [1,"bonusfeat"],

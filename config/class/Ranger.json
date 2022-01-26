@@ -8,7 +8,7 @@
 	"will":"bad",
 	"alignment":["any"],
   "spellmod":"wis",
-	"classSkills":["Climb","concentration","craft","handleanimal","heal","hide","jump","dungeoneering","geography","nature","listen","movesilent","profession","ride","search","spot","survival","swim","userope"],
+	"classSkills":["Climb","concentration","craft","handleanimal","heal","hide","jump","dungeoneering","geography","nature","listen","movesilently","profession","ride","search","spot","survival","swim","userope"],
 	"special":[
 		 [1,"favoredfoe1","track","wildempathy"],
     		[2,"combatstyle1"],

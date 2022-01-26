@@ -6,8 +6,8 @@
 	"fort":"good",
 	"ref":"bad",
 	"will":"bad",
-	"alignment":["lawfulgood"],
-  "spellmod":"wis",
+	"alignment":["lawful,good"],
+  	"spellmod":"wis",
 	"classSkills":["concentration","craft","diplomacy","handleanimal","heal","nobilityroyalty","religion","profession","ride","sensemotive"],
 	"special":[
     [1,"auraofgood","detectevil","smite1"],
