@@ -1,6 +1,6 @@
 ﻿namespace Core
 {
-    public class PlayerChar: BaseCharacter {
+    public class PlayerChar: BaseStatBlock {
         
     }
 }

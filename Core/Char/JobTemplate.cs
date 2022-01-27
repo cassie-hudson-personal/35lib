@@ -29,9 +29,8 @@ public class JobTemplate
             }
         }
     }
-
-    }
-
     public List<string> Alignment { get; set; }
+
+
 
 }

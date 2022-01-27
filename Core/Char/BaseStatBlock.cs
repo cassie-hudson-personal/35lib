@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Core
 {
-    public abstract class BaseCharacter
+    public abstract class BaseStatBlock
     {
         public AbilityScore Strength = new(10);
         public AbilityScore Dexterity = new(10);
